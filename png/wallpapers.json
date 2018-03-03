@@ -1,0 +1,80 @@
+{
+   
+    
+	"wallpapers":
+        [
+			
+            {
+				"author": "Annie Spratt",
+				"url": "https://picsum.photos/4000/2667?image=1052",
+				"thumbUrl": "https://picsum.photos/400/200?image=1052",
+				"name":""
+			},
+			 {
+				"author": "Padurariu Alexandru",
+				"url": "https://picsum.photos/7117/4090?image=1068",
+				"thumbUrl": "https://picsum.photos/400/200?image=1068",
+				"name":""
+			},
+			 {
+				"author": "Kevin Young",
+				"url": "https://picsum.photos/5760/3840?image=1067",
+				"thumbUrl": "https://picsum.photos/400/200?image=1067",
+				"name":""
+			},
+			 {
+				"author": "Bertrand Zuchuat",
+				"url": "https://picsum.photos/3744/5616?image=1065",
+				"thumbUrl": "https://picsum.photos/400/200?image=1065",
+				"name":""
+			},
+			 {
+				"author": "Alexandre Perotto",
+				"url": "https://picsum.photos/4867/3215?image=1063",
+				"thumbUrl": "https://picsum.photos/400/200?image=1063",
+				"name":""
+			},
+			 {
+				"author": "Matthew Wiebe",
+				"url": "https://picsum.photos/5092/3395?image=1062",
+				"thumbUrl": "https://picsum.photos/400/200?image=1062",
+				"name":""
+			},
+			 {
+				"author": "Rob Bye",
+				"url": "https://picsum.photos/3264/2448?image=1061",
+				"thumbUrl": "https://picsum.photos/400/200?image=1061",
+				"name":""
+			},
+			 {
+				"author": "Karl Fredrickson",
+				"url": "https://picsum.photos/5598/3732?image=1060",
+				"thumbUrl": "https://picsum.photos/400/200?image=1060",
+				"name":""
+			},
+			 {
+				"author": "Stefan Kunze",
+				"url": "https://picsum.photos/6016/4016?image=1057",
+				"thumbUrl": "https://picsum.photos/400/200?image=1057",
+				"name":""
+			},
+			 {
+				"author": "Ales Krivec",
+				"url": "https://picsum.photos/4928/3264?image=1051",
+				"thumbUrl": "https://picsum.photos/400/200?image=1051",
+				"name":""
+			},
+			 {
+				"author": "Rosan Harmens",
+				"url": "https://picsum.photos/3900/3120?image=1049",
+				"thumbUrl": "https://picsum.photos/400/200?image=1049",
+				"name":""
+			},
+			 {
+				"author": "Joseph Barrientos",
+				"url": "https://picsum.photos/6000/4000?image=1050",
+				"thumbUrl": "https://picsum.photos/400/200?image=1050",
+				"name":""
+			},
+		]
+}
